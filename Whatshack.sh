@@ -4,9 +4,9 @@ echo "
 <-- IndoSec -->
 ####################
 #   Whatsapp Code  # By ./C3W3KBerB4T4n9
-#     Exploiter    # ceweberbatang59@gmail.com
+#     Exploiter    # khairulumamooyosh064@gmail.com
 ####################
-Copyright (c) 2018 ceweberbatang Ganteng";
+Copyright (c) 2018 republikofgame";
 echo "";
 read -p "Nomer Kamu (+62xxxx)=> " nomer;
 read -p "Nomer Target (+62xxxx) => " target;
